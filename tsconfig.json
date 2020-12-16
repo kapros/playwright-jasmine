@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "strict": false,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "types": [
+        "node",
+        "playwright",
+        "jasmine"
+      ],
+      "typeRoots": [
+        "node_modules/@types"
+      ],
+      "outDir": "build",
+      "target": "es6"
+    }
+  }

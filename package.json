@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "@types/jasmine": "^3.5.10",
+        "jasmine": "^3.5.0",
+        "jasmine-ts": "^0.3.0",
+        "playwright": "^1.7.0",
+        "ts-node": "^8.10.2",
+        "typescript": "^3.9.5"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "ts-node node_modules/jasmine/bin/jasmine"
+    }
+}
